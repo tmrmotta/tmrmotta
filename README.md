@@ -6,4 +6,4 @@ I'm a Site Reliability Engineer working in São Paulo, Brasil. <br>
 <li> 🌱 Learning a lot about DevOps and Software Engineering </li>
 <li> 🌍 I'm travelling around Americas to learn about cultures, Spanish and English. </li>
 <li> 💬 Ping me about SRE, DevOps, Observability, Music, Movies and Series. </li>
-<li> 📫 Reach me: [tmrmotta.com](https://tmrmotta.com/)</li>
+<li> 📫 Reach me: <a hred=https://tmrmotta.com/>tmrmotta.com</a></li>
