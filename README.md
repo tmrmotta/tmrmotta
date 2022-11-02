@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hello there 👋 </1>
 I'm a Site Reliability Engineer working in São Paulo, Brasil.
 
 <li> 🦄 I'm currently working to improve obversability in StartUps </li>
