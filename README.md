@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="http://github.com/tmrmotta">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/tmrmotta?style=social">
+  </a>
+  <a href="http://twitter.com/tmrmotta">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tmrmotta?style=social">
+  </a>
+</p>
+
 <h3> Hello there 👋 </h3>
 
 I'm a Cloud Engineer, from São Paulo, Brasil. <br>
@@ -10,14 +19,7 @@ I'm a Cloud Engineer, from São Paulo, Brasil. <br>
 <li> 📫 Reach me: <a href="https://tmrmotta.com">tmrmotta.com</a></li> <br>
 
 
-<p align="left">
-  <a href="http://github.com/tmrmotta">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/tmrmotta?style=social">
-  </a>
-  <a href="http://twitter.com/tmrmotta">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tmrmotta?style=social">
-  </a>
-</p>
+
 <br>
 <div align="center">
   <a href="https://github.com/tmrmotta">
