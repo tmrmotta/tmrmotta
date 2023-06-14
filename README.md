@@ -18,3 +18,15 @@ I'm a Cloud Engineer, from São Paulo, Brasil. <br>
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tmrmotta?style=social">
   </a>
 </p>
+<br>
+<div align="center">
+  <a href="https://github.com/tmrmotta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmrmotta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmrmotta&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="tmrmotta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="tmrmotta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="tmrmotta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="tmrmotta-HCL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-plain-wordmark.svg">
+</div>
