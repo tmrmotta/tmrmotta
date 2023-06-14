@@ -9,7 +9,7 @@
 
 <h3> Hello there 👋 </h3>
 
-I'm a Cloud Engineer, from São Paulo, Brasil. <br>
+I'm a Cloud Engineer, based in São Paulo, Brasil. <br>
 
 <li> 🦄 I'm currently helping Startups to build their cloud environment </li>
 <li> 👨🏽‍💻 I'm daily using: AWS, Terraform, CICD, Datadog </li>
