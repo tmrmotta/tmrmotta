@@ -10,7 +10,7 @@ I'm a Cloud Engineer, from São Paulo, Brasil. <br>
 <li> 📫 Reach me: <a href="https://tmrmotta.com">tmrmotta.com</a></li>
 
 
-<p align="center">
+<p align="left">
 
   <a href="http://github.com/tmrmotta">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/tmrmotta?style=social">
